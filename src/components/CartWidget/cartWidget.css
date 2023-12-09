@@ -1,0 +1,18 @@
+.cart{
+  display: flex;
+  padding: 2em;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cartCounter{
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin: 1em;
+}
